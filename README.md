@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @tbrzc
-<!---
-tbrzc/tbrzc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="/static/svg/js-doc.svg" alt="js-doc" class="item">
+<img src="/static/svg/js.svg" alt="javascript" class="item">
+<img src="/static/svg/css.svg" alt="css" class="item">
+<img src="/static/svg/html.svg" alt="html" class="item">
+<img src="/static/svg/sass.svg" alt="sass" class="item">
+<img src="/static/svg/bootstrap5.svg" alt="bootstrap5" class="item">
+
+
+
+<style>
+    .item {
+        width: 40px;
+    }
+</style>
