@@ -9,6 +9,7 @@
 
 <style>
     .item {
-        width: 40px;
+        width: 12px;
+        height:30;
     }
 </style>
