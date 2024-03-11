@@ -1,5 +1,4 @@
 <div align="left">
-  <img src="/static/svg/js-doc.svg" alt="js-doc" height="30" width="40">
   <img src="/static/svg/js.svg" alt="javascript" height="30" width="40">
   <img src="/static/svg/css.svg" alt="css" height="30" width="40">
   <img src="/static/svg/html.svg" alt="html" height="30" width="40">
