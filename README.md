@@ -3,6 +3,5 @@
   <img src="/static/svg/css.svg" alt="css" height="30" width="40">
   <img src="/static/svg/html.svg" alt="html" height="30" width="40">
   <img src="/static/svg/sass.svg" alt="sass" height="30" width="40">
-  <img src="/static/svg/bootstrap5.svg" alt="bootstrap5" height="30" width="40">
 </div>
 
